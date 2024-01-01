@@ -13,3 +13,4 @@ I've made a small video guide to visually demonstrate setup. You can watch it on
 ### Credits
 
 This project is heavily inspired by [@ezolla](https://github.com/ezolla)'s amazing [linear-app-discord](https://github.com/ezolla/linear-app-discord). If you're looking for more control over the data sent, I recommend checking that out.
+ 
